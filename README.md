@@ -1,4 +1,4 @@
-# Hi, I'm Mustafa Çiçek 
+# Hi, I'm Mustafa Çiçek 🇹🇷
 
 Electrical & Electronics Engineer (Boğaziçi University) · İstanbul
 
@@ -19,4 +19,4 @@ algorithmic trading.
 [LinkedIn](https://www.linkedin.com/in/mustafacicek-eee/)
 
 ---
-🇹🇷 Elektrik-Elektronik Mühendisi · İstanbul. Gizliliğe saygılı küçük araçlar geliştiriyorum.
+Elektrik-Elektronik Mühendisi · İstanbul. Gizliliğe saygılı küçük araçlar geliştiriyorum.
