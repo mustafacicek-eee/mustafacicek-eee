@@ -14,6 +14,9 @@ algorithmic trading.
   A lightweight Pomodoro timer for the macOS menu bar, built with SwiftUI. EN/TR UI.
 - **[Weight Tracker for macOS](https://github.com/mustafacicek-eee/weight-tracker-macos)** —
   A small, private weight log for macOS, built with SwiftUI. EN/TR UI.
+- **[MouseTune](https://github.com/mustafacicek-eee/MouseTune)** —
+  Personal fork of OpenSnek for configuring Razer mice on macOS: Turkish UI,
+  battery forecast and a redesigned layout. SwiftUI.
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/mustafacicek-eee/)
