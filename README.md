@@ -10,7 +10,10 @@ algorithmic trading.
 - **[Playlist Multiselect for YouTube](https://github.com/mustafacicek-eee/youtube-playlist-multiselect)** —
   Chrome extension (MV3): bulk select, copy, move, sort and clean up YouTube playlists.
   No permissions, no data collection. EN/TR UI.
-- More macOS apps coming soon.
+- **[Pomodoro for macOS](https://github.com/mustafacicek-eee/pomodoro-macos)** —
+  A lightweight Pomodoro timer for the macOS menu bar, built with SwiftUI. EN/TR UI.
+- **[Weight Tracker for macOS](https://github.com/mustafacicek-eee/weight-tracker-macos)** —
+  A small, private weight log for macOS, built with SwiftUI. EN/TR UI.
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/mustafacicek-eee/)
