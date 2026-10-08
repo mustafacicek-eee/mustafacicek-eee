@@ -1,4 +1,4 @@
-# Hi, I'm Mustafa Çiçek 👋
+# Hi, I'm Mustafa Çiçek 
 
 Electrical & Electronics Engineer (Boğaziçi University) · İstanbul
 
